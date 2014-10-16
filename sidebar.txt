@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bex:home|Door43 (bex)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bex|d43-bex repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bex/archive/master.zip|d43-bex.zip]]
+
+**Recent Changes**
+{{changes>ns = bex}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bex|Ethnologue data]]
+
